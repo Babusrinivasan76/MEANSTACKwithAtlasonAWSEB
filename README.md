@@ -19,7 +19,7 @@ It also provide a free tier to test out the application / database features.
 AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
 
 ## Architecture Diagram:
-![**AWS EBS with MongoDB Atlas] (https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/EBS%20Atlas%20Architecture.png)
+![AWS EBS with MongoDB Atlas] (https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/EBS%20Atlas%20Architecture.png)
 
 ## Deployment:
 
