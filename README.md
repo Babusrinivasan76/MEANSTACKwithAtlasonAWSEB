@@ -4,10 +4,10 @@
 ## Introduction: 
 This is a technical repo to demonstrate the application deployment using MongoDB Atlas and AWS Elastic Beanstalk.
 This tuotorial is intended for those who wants 
-a) Have a rapid application deployment
-b) Test out the features of an application
-c) Fail fast in their development cycle
-d) Want to try out the AWS Elastic Beanstalk and MongoDB Atlas 
+1. Have a rapid application deployment
+2. Test out the features of an application
+3. Fail fast in their development cycle
+4. Want to try out the AWS Elastic Beanstalk and MongoDB Atlas 
 
 ## MongoDB Atlas:
 MongoDB Atlas is an all purpose database having features like Document Model, Geo-spatial , Time-seires, hybrid deployment, multi cloud services.
