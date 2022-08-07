@@ -21,13 +21,25 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 ## Architecture Diagram:
 ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/EBS%20Atlas%20Architecture.png)
 
-## step by step Deployment:
+## Step by Step Deployment:
 
 **Step1: Set up the MongoDB Atlas cluster**
+         MongoDB Atlas provides a free cluster setup. Pls follow the link to setup the free cluster
+         
+**Step2: Develop and containerize the application**         
   
-**Step2: Set up the AWS Elastic Beanstalk environment**
-
-**Step3: Containarize the application**
+**Step3: Set up the AWS Elastic Beanstalk environment**
+        a. Navigate to the AWS Elastic Beanstalk
+        ![AWS Console - Elastic Beanstalk]([https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/01.EBS%20-%20Create%20Env.png)
+        b. Create a Web Server Environment
+        ![EBS - Environment Creation1](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/02.EBS%20-%20Create%20Env%202.png)
+        ![EBS - Environment Creation2](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/03.EBS-%20CCreate%20CEnv3.png)
+        c. Choose the application to deploy 
+        ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS%20-%20Create%20Env4.png)
+        ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS%20-%20Create%20Env6.png)
+        ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS%20-%20Create%20Env7.png)
+        d. Troubleshoot
+        ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/14.EBS%20-%20Logs.png)
 
 **Step4: Deploy the application**
 
