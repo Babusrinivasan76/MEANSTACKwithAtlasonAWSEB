@@ -75,5 +75,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 
 ## Summary:
 
- This template can be used to deploy any dockerized application you developed. 
- Instead of ebsdemoapp.zip , you can use your application zip file and deploy the application within no time.
+ Any contanirized application can be deployed within no time. 
+ Instead of ebsdemoapp.zip , you can use your application file and deploy the application.
+ Pls share your feedback / queries to partners@mongodb.com
+ 
