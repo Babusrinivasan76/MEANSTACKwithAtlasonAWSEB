@@ -47,7 +47,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
         
   ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS-CreateEnv4-upd.png)
   
- e. Download the code -eksDemoApp.zip and upload the same by clicking " Choose File". Provide a version details of the file
+ e. Download the code - "ebsDemoApp.zip" and upload the same by clicking " Choose File". Provide a version details of the file
  
   ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/05.EBS-CreateEnv5-upd.png)
   
@@ -68,8 +68,12 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 
 
 **Step5: Test the application**
+
+ i. Using the endpoint created by EBS , test the application by adding the proper node (ie /api/v1/health)
   ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/15.EBS-CreateEnv15-upd.png)
 
 
 ## Summary:
 
+ This template can be used to deploy any dockerized application you developed. 
+ Instead of ebsdemoapp.zip , you can use your application zip file and deploy the application within no time.
