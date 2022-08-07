@@ -29,29 +29,47 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 **Step2: Develop and containerize the application**         
   
 **Step3: Set up the AWS Elastic Beanstalk environment**
- a. Navigate to the AWS Elastic Beanstalk
+ 
+ 
+ a. Navigate to the AWS Elastic Beanstalk by typing "Elastic Beanstalk" in the search bar of AWS Console and click "Create Environment"
        
-  ![AWS Console - Elastic Beanstalk](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/01.EBS-CreateEnv1-upd.png)     
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/01.EBS-CreateEnv1-upd.png)     
         
- b. Create a Web Server Environment
+ b. Select "Web Server Environment"
         
-  ![EBS - Environment Creation1](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/02.EBS-CreateEnv2-upd.png)
-  ![EBS - Environment Creation2](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/03.EBS-CreateEnv3-upd.png)
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/02.EBS-CreateEnv2-upd.png)
+  
+ c. Type the "Application Name" , "Environment Name" and "Domain". Validate the Domain availability
+  
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/03.EBS-CreateEnv3-upd.png)
         
- c. Choose the application to deploy 
+ d. Choose the platform details as the docker container
         
-  ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS-CreateEnv4-upd.png)
-  ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/05.EBS-CreateEnv5-upd.png)
-  ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/06.EBS-CreateEnv6-upd.png)
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/04.EBS-CreateEnv4-upd.png)
+  
+ e. Download the code -eksDemoApp.zip and upload the same by clicking " Choose File". Provide a version details of the file
+ 
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/05.EBS-CreateEnv5-upd.png)
+  
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/06.EBS-CreateEnv6-upd.png)
         
-        
-  d. Troubleshoot
-        
-  ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/14.EBS%20-%20Logs.png)
+ f. Ensure the file is sucessfully upload and provide the tag details(optional)
+ 
+ ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/07.EBS-CreateEnv7-upd.png)
+ 
+ g. Click "Create Environment". It will take 15mins to complete.
+ 
+![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/08.EBS-CreateEnv8-upd.png)
 
-**Step4: Deploy the application**
+ h. Ensure the application is deployed successfuly. For any troubleshooting, use the logs from the left side menu.
+        
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/13.EBS-CreateEnv13-upd.png)
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/14.EBS-CreateEnv14-upd.png)
+
 
 **Step5: Test the application**
+  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/15.EBS-CreateEnv15-upd.png)
+
 
 ## Summary:
 
