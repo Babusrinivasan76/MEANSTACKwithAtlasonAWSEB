@@ -3,7 +3,7 @@
 
 ## Introduction: 
 This is a technical repo to demonstrate the application deployment using MongoDB Atlas and AWS Elastic Beanstalk.
-This tuotorial is intended for those who wants 
+This tuotorial is intended for those who wants to
 1. Have a rapid application deployment
 2. Test out the features of an application
 3. Fail fast in their development cycle
@@ -21,7 +21,17 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 ## Architecture Diagram:
 ![AWS EBS with MongoDB Atlas](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/EBS%20Atlas%20Architecture.png)
 
-## Deployment:
+## step by step Deployment:
+
+**Step1: Set up the MongoDB Atlas cluster
+  
+**Step2: Set up the AWS Elastic Beanstalk environment
+
+**Step3: Containarize the application
+
+**Step4: Deploy the application
+
+**Step5: Test the application
 
 ## Summary:
 
