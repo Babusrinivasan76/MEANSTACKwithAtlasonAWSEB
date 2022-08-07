@@ -31,7 +31,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 **Step3: Set up the AWS Elastic Beanstalk environment**
         a. Navigate to the AWS Elastic Beanstalk
         
-        ![AWS Console - Elastic Beanstalk](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/01.EBS-CreateEnv1-upd.png)
+        ![AWS Console - Elastic Beanstalk]https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/01.EBS-CreateEnv1-upd.png
         
         
         
