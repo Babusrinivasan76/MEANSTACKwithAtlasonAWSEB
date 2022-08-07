@@ -29,7 +29,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
          
 **Step2: Download and containerize the application**        
 
-  Download the sample application from this repository  - "[ebsDemoApp.zip(https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/ebsDemoApp.zip)". 
+  Download the sample application from this repository  - " [ebsDemoApp.zip](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/ebsDemoApp.zip) ". 
          
   This application is having 3 APIs to register the user details to MongoDB Atlas(./app/v1/users) , to Query the user (./app/v1/login) and to check the health of the application (./app/v1/health)
          
