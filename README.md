@@ -58,7 +58,7 @@ Set up the EB Cli based on the your environment using the [link](https://docs.aw
 **Step4: Test the application**
 
  i. Using the endpoint created by EBS , test the application by adding the proper node (ie /api/v1/health)
-  ![](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/blob/main/images/15.EBS-CreateEnv15-upd.png)
+
 
 
 ## Summary:
