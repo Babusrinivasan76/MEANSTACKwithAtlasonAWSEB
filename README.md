@@ -27,15 +27,11 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
          
    MongoDB Atlas provides a free cluster setup. Pls follow the link to setup the [free cluster](https://www.mongodb.com/docs/atlas/getting-started/)
          
-**Step2: Download and containerize the application**        
+**Step2: Set up the EB CLI ** 
 
-  Download the sample application from this repository  - " [ebsDemoApp.zip](https://github.com/Babusrinivasan76/ebsintegrationwithatlas/raw/main/ebsDemoApp.zip) ". 
-         
-  This application is having 3 APIs to register the user details to MongoDB Atlas(./api/v1/users) , to Query the user (./api/v1/login) and to check the health of the application (./api/v1/health)
-         
-  Change the .env parameters as per the MongoDB Database and collections you created in step1
-         
-  Change the database connection details in app.py
+Set up the EB Cli based on the your environment using the [link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html#eb-cli3-install.scripts)
+
+
   
 **Step3: Set up the AWS Elastic Beanstalk environment**
  
