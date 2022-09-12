@@ -48,7 +48,9 @@ Set up the EB Cli based on the your environment using the [link](https://docs.aw
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp10.png)
  
         
- d. Create the environment with 'eb create'
+ d. Create the environment with 'eb create'.
+ 
+ Point for attention: Provide the "Application Name" same af the one defined in the Private URL in the code (employee.services.ts).
  
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp17.png)
  
