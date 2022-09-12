@@ -40,26 +40,39 @@ Set up the EB Cli based on the your environment using the [link](https://docs.aw
         
  b. Select database parameters in .env file
   
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBSMeanstackupdatedbs-2.png) 
+ 
+  
  c. Set up the Elastic Beanstalk initialization paramters
+ 
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp10.png)
+ 
         
  d. Create the environment with 'eb create'
+ 
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp17.png)
  
  
  e. Ensure the successful creation of environment.
  
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp16.png)
+ 
         
  f. Update the configuration parameters for Loadbalancer / listeners
  
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp14.png)
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp15.png)
+ 
  
  g. Ensure the configuration changes are applied successfully
-
+ ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp15.png)
 
 
 **Step4: Test the application**
 
  i. Using the endpoint created by EBS , test the application by adding the proper node (ie /api/v1/health)
 
-
+![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBSMeanstackOutput-1.png)
 
 ## Summary:
 
