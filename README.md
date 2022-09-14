@@ -29,7 +29,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
          
 ## Step2: Set up the Elastic Beanstalk CLI
 
-Set up the Elastic Beanstalk Cli based on the your environment using the [link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html#eb-cli3-install.scripts)
+Set up the Elastic Beanstalk cli based on the your environment using the [link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-advanced.html)
 
 
   
