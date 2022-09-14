@@ -36,9 +36,15 @@ Set up the Elastic Beanstalk cli based on the your environment using the [link](
 **Step3: Set up the AWS Elastic Beanstalk environment**
  
  
- a. Git Clone the code from Repo   
+ a. Git Clone the code from Repo 
+ 
+ git clone https://github.com/Babusrinivasan76/MEANSTACKwithAtlasonAWSEB.git
+ 
         
- b. Select database parameters in .env file
+ b. Select database parameters in .env file (MEANSTACKwithAtlasonAWSEB --> partner-eb-meanstack-atlas --> server --> .env)
+  
+  Refer the [link](https://www.mongodb.com/docs/guides/atlas/connection-string/) for getting the MongoDB Atlas connection string 
+ 
   
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBSMeanstackupdatedbs-2.png) 
  
