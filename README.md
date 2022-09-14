@@ -107,7 +107,10 @@ g) Select a keypair.                : default
 
 **Step4: Test the application**
 
- i. Using the endpoint created by EBS , test the application by adding the proper node (ie /api/v1/health)
+ i. Using the endpoint created by Elastic Beanstalk test the application for CURD operations and ensure the data are reflecting in MongoDB Atlas documents
+ 
+ 
+sample endpoint:  http://partner-eb-meanstack.us-east-1.elasticbeanstalk.com/
 
 ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBSMeanstackOutput-1.png)
 
