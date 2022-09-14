@@ -27,7 +27,7 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
          
    MongoDB Atlas provides a free cluster setup. Pls follow the link to setup the [free cluster](https://www.mongodb.com/docs/atlas/getting-started/)
          
-**Step2: Set up the EB CLI ** 
+## Step2: Set up the EB CLI
 
 Set up the EB Cli based on the your environment using the [link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html#eb-cli3-install.scripts)
 
