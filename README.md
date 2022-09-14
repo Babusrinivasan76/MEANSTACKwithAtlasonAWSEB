@@ -49,12 +49,16 @@ Set up the Elastic Beanstalk cli based on the your environment using the [link](
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBSMeanstackupdatedbs-2.png) 
  
   
- c. Set up the Elastic Beanstalk initialization paramters
+ c. Set up the Elastic Beanstalk initialization paramters through eb init command
+ 
+         eb init
  
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp10.png)
  
         
  d. Create the environment with 'eb create'.
+ 
+         eb create
  
  Point for attention: Provide the "Application Name" same af the one defined in the Private URL in the code (employee.services.ts).
  
