@@ -53,6 +53,18 @@ Set up the Elastic Beanstalk cli based on the your environment using the [link](
  
          eb init
  
+Parameters for eb init:
+
+a) Select a default region          : ( select the region in which you want to deploy the Elastic Beanstalk)
+b) Select an application to use     : default [Create new Application]
+c) It appears you are using Node.js. Is this correct?:  "N"
+d) Select a platform                :  3) Docker
+e) Select a platform branch.        :  default [ie. 1) Docker running on 64bit Amazon Linux 2)]
+f) Cannot setup CodeCommit because there is no Source Control setup, continuing with initialization
+Do you want to set up SSH for your instances? : default [Y]
+ 
+ 
+ 
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp10.png)
  
         
