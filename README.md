@@ -91,7 +91,7 @@ g) Select a keypair.                : default
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp17.png)
  
  
- e. Ensure the successful creation of environment.
+ e. Ensure the successful creation of environment.It will take minimum 10mins to create the environment.
  
  ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp16.png)
  
