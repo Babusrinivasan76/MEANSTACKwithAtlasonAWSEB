@@ -98,7 +98,7 @@ g) Select a keypair.                : default
         
  f. Update the configuration parameters for Loadbalancer / listeners
  
- ![](https://github.com/Babusrinivasan76/ebintegrationwithatlas/blob/main/images/16.EBcreateasampleapp14.png)
+ ![](https://github.com/Babusrinivasan76/MEANSTACKwithAtlasonAWSEB/blob/main/images/16.EBcreateasampleapp14.png)
  
  
  g. Ensure the configuration changes are applied successfully
