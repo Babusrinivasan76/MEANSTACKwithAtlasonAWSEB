@@ -83,9 +83,11 @@ g) Select a keypair.                : default
  
  b) Enter DNS CNAME prefix          : default [partner-eb-meanstack-atlas-dev]
  
-CNAME should be unique. if it gives an option on account of duplicate, select the default option.
+CNAME should be unique. if it gives an option on account of duplicate, select the default option suggested.
 
-Also pls update the code for the private url. Client --> src --> app --> employee.service.ts (line 10)
+Also pls copy and paste the DNS CNAME selected to the code as the private url. Location: "client --> src --> app --> employee.service.ts (line 10)"
+
+Ensure the CNMAE selected and Private URL server names are same.
 
 Refer the below screenshot for further details
  
