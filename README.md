@@ -83,6 +83,12 @@ g) Select a keypair.                : default
  
  b) Enter DNS CNAME prefix          : default [partner-eb-meanstack-atlas-dev]
  
+CNAME should be unique. if it gives an option on account of duplicate, select the default option.
+
+Also pls update the code for the private url. Client --> src --> app --> employee.service.ts (line 10)
+
+Refer the below screenshot for further details
+ 
  c) Select a load balancer type     : default [application]
  
  d) Would you like to enable Spot Fleet requests for this environment? (y/N): default [N]
